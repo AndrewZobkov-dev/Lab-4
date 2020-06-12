@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1589886980 source:d:\programs language\labs sem 2\stak\main.cpp
+	<iostream>
+	"stak.h"
+
+1589884919 d:\programs language\labs sem 2\stak\stak.h
+	<iostream>
+
+1591995578 source:c:\users\zand2\onedrive\Рабочий стол\git hub\lab 4\main.cpp
+	"stak.h"
+
+1589884919 c:\users\zand2\onedrive\Рабочий стол\git hub\lab 4\stak.h
+	<iostream>
+
